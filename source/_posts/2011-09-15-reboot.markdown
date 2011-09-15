@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Reboot"
+date: 2011-09-15 10:32
+comments: true
+categories: meta
+---
+
+Este blog está siendo reiniciado hoy. Un día casi como otro cualquiera.
+
+En concreto, he abandonado Mephisto, que como sistema de blogging estaba en una vía muerta, y me he pasado a [Octopress](http://octopress.org). Octopress tiene características que facilitan escribir un blog sobre programación, es git-friendly, y genera contenido estático, con lo cual el consumo de recursos en [Joyent](http://joyent.com), donde este blog está hospedado, ya no debe preocuparme.
+
+En breve, más contenidos.
