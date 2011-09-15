@@ -1,0 +1,8 @@
+---
+layout: post
+title: SWLOTD
+---
+
+Desde Boing Boing TV, una animación acelerada de la construcción del set de Lego más grande que hay: el Halcón Milenario
+
+<embed class='castfire_player' id='cf_9bd19' name='cf_9bd19' width='480' height='400' src='http://p.castfire.com/Xu7m0/video/5247/bbtv_2008-01-28-161850.flv' type='application/x-shockwave-flash' allowFullScreen='true'></embed>

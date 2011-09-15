@@ -1,0 +1,13 @@
+---
+layout: post
+title: Perl#
+---
+
+Rich Wareham ha anunciado hoy en la <a href="http://lists.ximian.com/mailman/listinfo/mono-list">lista de Mono</a> la disponibilidad de 
+<a title="Embedded Perl Interpreter for .NET/Mono - Rich Wareham's Web-site" href="http://charon.ucam.org/mason/software/perl-sharp.html"> Perl#</a>, un intérprete incrustado de perl para ser usado desde la plataforma .NET.
+No es ni una implementación de Perl para la plataforma .NET (que los chicos de ActiveState ya dijeron que era una tarea de gigantes, aunque luego lo hicieran) ni puede el código Perl efectuar callbacks en el código supervisado (lo cual vendría muy bien para hacer nuestros objetos <em lang="en">scriptables</em> en perl). Simplemente es un intérprete de perl, que se ejecuta dentro de una clase, ni más ni menos. Lo cual no quiere decir que eso no sea muy útil ni mucho menos!! Imagínate toda la potencia del CPAN disponible desde tus proyectos en C#
+
+En fin, que estoy deseando probarlo...
+
+<ins datetime="2004-04-13T13:51:00+02:00">También está <a href="http://taubz.for.net/code/perlsharp/">PerlSharp</a> de Joshua Tauberer. Éste parece que puede llamar a métodos de código supervisado.</ins>
+

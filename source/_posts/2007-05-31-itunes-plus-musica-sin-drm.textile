@@ -1,0 +1,12 @@
+---
+layout: post
+title: "iTunes Plus: Música sin DRM"
+---
+
+Lo habían prometido para mayo y, aunque justito, lo han cumplido: Ya es posible comprar canciones de EMI en la tienda de iTunes sin DRM, con mayor calidad sonora y eso si, un poquito más caras.
+Parece ser que para acceder a esta nueva música será necesario actualizar iTunes a la versión 7.2, por lo menos eso es lo que me ha indicado el actualizador de soft de Apple.
+
+La verdad es que no estoy muy seguro de qué discográfica son las canciones que he comprado en el ITMS, pero a la mínima que pueda voy a actualizarlas a la versión sin DRM y con mayor bitrate. Espero que las demás discográficas vean que hay negocio y también permitan esa posibilidad!!!
+
+
+Resulta irónico pensar que, aquí donde me -veis- léeis, en su dia fui un experto en DRM, por lo menos en una implementación en concreto. Algún dia tengo que explicar esa historia.... 

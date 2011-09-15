@@ -1,0 +1,18 @@
+---
+layout: post
+title: Google Maps confía en los vascos
+---
+
+Sabido es que los vascos tienen fama de exagerados... o más bien al contrario, de hacer los más increíbles esfuerzos sin darle la menor importancia. Por eso debe ser que, si buscas como ir de Bilbao a Nueva York, Google Maps te ofrece está audaz respuesta....
+
+[Bilbao - New York](http://maps.google.com/maps?f=d&hl=es&saddr=bilbao&daddr=New+York,+NY&sll=51.618017,-23.554687&sspn=59.866576,192.65625&layer=&ie=UTF8&z=4&om=1)
+
+Donde el paso 25, dice sin inmutarse (y cito):
+
+>Cruzar el Atlántico a nado.	5,572 km
+
+Ya me lo imagino:
+
+>--- Venga Patxi, que ya veo la estatua de la libertad!
+
+>--- No se, Txema, yo casi que me vuelvo...

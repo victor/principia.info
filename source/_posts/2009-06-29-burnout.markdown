@@ -1,0 +1,13 @@
+---
+layout: post
+title: Burnout
+---
+
+No, no me refiero al título de un video juego. Es un estado psicológico que no tiene una traducción mejor, aunque a veces se utiliza el término "síndrome de estar quemado". Estuve leyendo un [artículo sobre el burnout](http://www.alistapart.com/articles/burnout/) en [A List Apart](http://www.alistapart.com/) y desde entonces le he dado muchas vueltas al asunto. 
+
+El caso es que empiezo a reconocer muchos de los *síntomas* asociados al burnout, no tanto emocionales como fisiológicos. Afortunadamente, en el plano laboral [estoy muy bien](http://principia.info/2009/5/26/cambios), así que no tengo problemas en ese aspecto. Pero en el caso de la carrera que estudio en mi [abundante tiempo libre](http://catb.org/jargon/html/C/copious-free-time.html), estoy empezando a ver que la inversión que hago en recursos no solo ya no es rentable, si no que además está empezado a afectar a otros aspectos que en principio, debían ser compartimentos estancos, pero que están demostrando ser algo porosos. Y en concreto me refiero a la dificultad de conciliarlos con la vida familiar. El día, por mucho que lo estire, va a seguir teniendo 24 horas. Y si lo alargo por un lado, tarde o temprano lo tengo que acortar por otro, me ponga como me ponga.
+
+
+Es por eso que he iniciado un período de reflexión, para calibrar si realmente es una inversión rentable de recursos. El argumento de "todo lo que he invertido ya" no es suficiente, por hacer una analogía es como seguir echando dinero en una hipoteca por un piso que no vale el precio por el que se tasó, y según como, sale más a cuenta dejarlo correr y ponerse a buscar otro. La analogía falla en que nadie me quitará lo que ya tengo, y que puedo seguir cuando quiera (al menos en la UOC es así). Creo que por lo pronto me voy a tomar un respiro, y centrarme más en la familia y mis hobbies (que no nos engañemos, pueden ser proyectos de programación igualmente, pero no tengo deadlines y no me obligan a trasnochar)
+
+Pues así están las cosas...

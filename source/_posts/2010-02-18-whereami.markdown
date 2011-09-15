@@ -1,0 +1,8 @@
+---
+layout: post
+title: whereami
+---
+
+He creado una pequeña utilidad de línea de comandos para Snow Leopard. Se llama `whereami` y, sorprendentemente, sirve para determinar tu posición, usando Core Location para ello.
+
+Esta utilidad es open source y puedes hacerte con el código en [http://github.com/victor/whereami](http://github.com/victor/whereami)

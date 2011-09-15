@@ -1,0 +1,10 @@
+---
+layout: post
+title: Virtual PC 2007
+---
+
+Microsoft ha sacado la nueva versión de su software de virtualización para PCs, [Virtual PC 2007](http://www.microsoft.com/windows/products/winfamily/virtualpc/default.mspx). Ahora que es gratuito, es otra manera de ejecutar varios sistemas operativos sin necesidad de tener multi-boot.
+
+Dónde tendré mis CDs de BeOS?
+
+\[Via: [Inside Port 25](http://www.onlamp.com/onlamp/port25/)\]

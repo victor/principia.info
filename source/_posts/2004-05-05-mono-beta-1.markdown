@@ -1,0 +1,11 @@
+---
+layout: post
+title: Mono β-1
+---
+
+Ximian/Novell ha anunciado la <a title="Mono Beta 1" href="http://www.go-mono.com/archive/beta1/beta1.html"> Beta 1 de Mono</a>.
+Destacan:
+<ul><li>la introducción de una máquina virtual Java</li><li>el explorador de documentación</li><li>la <em>incrustabilidad</em> del runtime</li><li>Gtk# y mod_mono</li><li>GAC</li><li>adelanto del soporte a genéricos que saldrá con Mono 1.2</li></ul>
+
+Mmph... haré un nuevo intento de compilar y ejecutar mod_mono en FreeBSD, a ver si con una release importante me va mejor que con diferentes instantáneas desincronizadas del CVS. Y ya voy mal de tiempo, con la beta de MT, las prácticas, el cambio de empresa... todo sea por ejecutar ASP.NET y <a href="http://www.nat.org/dashboard" title="dashboard!">Salpicadero</a>
+

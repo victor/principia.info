@@ -1,0 +1,17 @@
+---
+layout: post
+title: Cambios
+---
+
+Como hace ya 3 años, escribo un post anunciando que cambio de trabajo. No es, como me hubiera imaginado, para anunciar que trabajaré con Rails o con Cocoa --al menos de momento--, de hecho, seguiré con Java por una buena temporada. Pero sí con otras tecnologías que me interesan: cloud computing, visualización de datos, web semántica... ah si! y un [MacBook Pro](http://www.apple.com/es/macbookpro/)!
+
+La verdad es que no me puedo quejar, no estoy nada mal en [Polymita](http://www.polymita.com). Pero a uno, aunque el soporte se le de bien, no es lo que ha nacido para hacer... yo soy más bien un creador, o cacharreador al menos. Me gusta poner a prueba ideas y echarlas a rodar, y ver si corren o se estrellan. Y últimamente, esto no lo estaba haciendo.
+
+ Lo ideal hubiera sido ser yo un emprendedor y poner algo en marcha, pero hay muchas cosas que desconozco todavía. Necesito aprender más antes de dar el gran paso. Desde que trabajé en Planeta (una gran corporación, pero algo lenta de reflejos en lo que a internet se refiere), he ido buscando ir más atrás en el ciclo de vida de una empresa. Así que cuando me ha salido una oportunidad de trabajar en una "web startup", y cuando he visto claro que esta oportunidad tenia visos de ser viable (ya) que la primera vez que me ofrecieron este puesto, yo no lo veía tan claro), pues la he cogido. Hay quien creerá que estoy loco por cambiar de empleo en medio de este clima económico... bah! He hecho suficientes entrevistas a candidatos como para saber que cuesta encontrar personal preparado. Así que, suponiendo que la cosa se torciera, tampoco estaría mucho tiempo de brazos cruzados.
+
+Ya tengo ganas de empezar, la verdad. Y se que echaré de menos a la gente de Polymita, cuyo excelente equipo hará llegar lejos a la empresa (que lástima que no me he quedado lo suficiente para tener acciones). De hecho, escribiré alguna que otra recomendación en [LinkedIn](http://linkedin.com) en mi abundante tiempo libre. Pero estoy impaciente.
+
+Si acaso, cuando le tenga cogido el ritmo a la empresa nueva, ya iré escribiendo que tal me va. Ah! que de qué es la empresa? Pues es de... bueno, no lo se explicar correctamente. Antes de meter la pata, dejadme unos días para comprobar que lo he entendido bien :-)
+
+
+Por cierto, como curiosidad fuera de tema, esta entrada ha sido creada en Chromium para Mac.

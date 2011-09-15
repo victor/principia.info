@@ -1,0 +1,10 @@
+---
+layout: post
+title: Alternativas a Movable Type 3
+---
+
+La gente se pregunta por las nuevas funcionalidades de MT3. En realidad, a primer golpe de vista poco o nada hay de nuevo, que puedan usar directamente. Mena Trott ha hablado de cambiar de MT, el <em lang="en">Personal Publishing System</em>, a MT el <em lang="en">Publishing Platform</em>. Por una parte, me parece mal que se desdigan ya que tal como escribo esto puedo ver que en el logotipo de la beta pon!a la primera frase. Pero no deja de ser verdad, casi toda la funcionalidad nueva que incorpora MT3 est! en la API de que disponen los desarrolladores de extensiones. O sea que, al usuario medio, no le sale a cuenta, de momento (aparte de por el descuento a los <em lang="en">early adopters</em>), el migrar a MT3. Y, probablemente, si es de los que ahora se est!n quejando, tampoco lo necesite. La versi!n 2.6 seguir! estando disponible, bajo los mismos t!rminos bajo los que estaba disponible hasta ahora. Como me imagino que dejar! de estar disponible para descarga, nadie la podr! poner para descargar, pero quien lo necesitase seria un usuario que empieza de nuevo, y entonces puede empezar perfectamente con otro sistema de blogs.
+
+Realmente, he considerado pasar a TypePad para el sitio de los <a href="http://www.claddaghring.org/">Claddagh Ring Dancers</a>. Pero no quiero incurrir en gastos innecesarios, ya es bastante con el hosting (si, muy cool decir que est!s hospedado en OS X Server pero hasta la relaci!n ventajas/desventajas est! siendo desfavorable, realmente falla a menudo), asi que de momento mirar! de empezar por migrar ese sitio a Blosxom y ver qu! tal. Me lo estaba planteando ya como alternativa a usar un segundo blog para las partes est!ticas, pero ahora ya tengo un motivo de peso. All! somos una docena de autores (a pesar de que no escriban ni una cuarta parte) y la broma saldr!a por un ojo de la cara o dos.
+
+S! que este post est! saliendo de lo m!s desordenado :( realmente no deja de ser un braindump r!pido de lo que se me pasa por la cabeza. Queda como ejercicio para el lector desenmara!arlo.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Dresina
+---
+
+Hace unos dias que le doy vueltas a la idea de ponerme por libre y establecer una pequeña consultoría (y estoy pensando en la palabra inglesa *consultant*, más que *consultor*) unipersonal para desarrollar con Rails. Para bien o para mal, no se mucho sobre gestión de empresas, pero se lo suficiente como para saber que necesito ahorrar antes de dar semejante paso, o sea, que de momento no va a ser.
+
+ El caso es que cuando pensaba que nombre le podría poner, le daba muchas vueltas. Y cuando pienso en palabras del campo semántico ferroviario, lo que más pronto me asalta es esa imagen de dos personas dandole a una palanca con forma de balancín (*see-saw*) para propulsar una pequeña plataforma montada sobre la via. Hasta hace poco no sabia como se llamaba este vehículo, que en inglés se conoce como *handcar*.
+
+ Hasta hace poco, digo, porque una búsqueda en la Wikipedia me ha mostrado que la palabra que busco es dresina. Lo que es curioso, es que yo pensaba que estos vehículos necesariamente eran siempre de tracción sangu!nea, pero por lo visto, se entiende como dresina cualquier vehículo destinado al mantenimiento o al transporte 'no colectivo' de personal a través de la via férrea, sea cual sea su método o manera de propulsión. Con lo cual, si conocíais esta web desde hace tiempo, os daréis cuenta de la feliz coincidencia que provoqué al escogir aquella imagen que puse en el encabezado en el tema original:
+
+![Dresina](http://principia.info/images/machine.png)
+
+ La palabra dresina no es tan sexy como *handcar*, y es lo suficientemente extraña para que se olvide facilmente. Diría incluso que es dif!Ícil de pronunciar. Asi que tendrÁ que ser otra palabra...
+
+ Pero ahora, por lo menos, ya sabéis lo que es una [dresina](http://images.google.com/images?q=dresina)
+

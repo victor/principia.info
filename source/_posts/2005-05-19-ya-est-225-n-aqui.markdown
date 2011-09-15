@@ -1,0 +1,10 @@
+---
+layout: post
+title: Ya est&#225;n aqui
+---
+
+White Box Robotics ya ha renovado su web y ya se pueden reservar los [PC-BOTS](http://www.whiteboxrobotics.com/2005/), peque&#241;as *unidades R2* que albergan componentes de PC est&#225;ndar habilitando asi la posibilidad de usarlos fuera de su contexto habitual, ya que se convierten en peque&#241;os PCs itinerantes.
+
+No estoy muy al corriente de su autonom&#237;a y su forma de recarga todavia, pero si se comportan como un tel&#233;fono m&#243;vil (es decir, van avisando cuando la bateria est&#225; baja) y si simplemente hay que desenrollar un cable y conectarlos a la red el&#233;ctrica (estilo aspirador) va a ser m&#225;s que suficiente.
+
+Habr! que ir echando un vistazo al [BotBlog](http://whiteboxrobotics.blogspot.com/) de vez en cuando...

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Boicot a Alcampo? Venga ya!
+---
+
+Para empezar, eso fue **un único centro** donde un encargado, tal vez llevado por un exceso de celo nacionalista, se excedió y puso el cartelito. Eso no quiere decir que ni Alcampo, ni ese centro tampoco, estén a favor del boicot. Lo contrario también es cierto, pero es de suponer que si tienen un stock de productos catalanes querrán venderlo.
+
+Pero es que si ahora los catalanes y otros consumidores que estén contra el boicot a los productos catalanes, hiciésemos boicot a Alcampo, primero estaríamos demostrando que boicotear empresas es una estrategia legítima. Segundo, conseguiríamos que quien apoya al boicot original, fuese a comprar a Alcampo para demostrar su apoyo a la empresa - cuando tal vez por méritos propios la empresa no tendría tantas ventas. Tercero, los catalanes pocas veces pueden comprar en Alcampos de fuera de Catalunya (yo si por que voy al de Garrapinillos ;) asi que en el fondo, van a estar perjudicando a otros catalanes.
+
+La !nica diferencia entre un boicot y el otro, todo hay que decirlo, es que mientras que este último castiga a una empresa por su actitud, o por sus acciones, el boicot a los productos catalanes castiga a todo un conjunto de empresas por una política llevada a cabo por el Gobierno de la localidad donde están inscritas. Gobierno que sus directivos, o sus trabajadores, pueden o no haber votado, y cuyas decisiones bien poco pueden hacer para cambiar. Y no solo eso, si no que la justificación es por que "pagan sus impuestos en Catalunya" y claro, esos impuestos van a parar a los bolsillos de los gobernantes. O no? O tal vez vayan destinados a proyectos que beneficien al conjunto de la población catalana, tanto si son votantes del tripartito como de la oposición?
+
+Pero es que aún asi, el boicot no lo están haciendo contra el gobierno catalán, no señor. Se olvidan de que los impuestos por los productos que (no) adquieren son una pequeña parte del precio del producto. Hay otra parte del dinero, que las empresas catalanas (y sus trabajadores fuera de Catalunya) dejan de percibir, resultando las principales perjudicadas. Con lo cual, por una parte, se está castigando a los catalanes por el hecho de ser catalanes, ni más ni menos. Y por otra, el dinero que no es percibido por las empresas catalanas ni sus trabajadores de toda España, ya no podrá ser gastado en productos catalanes o no, en localidades catalanas o no.
+
+Bueno. Pues a pesar de que uno esté atacando a un conjunto de la población, simplemente por pertencer a él, y el otro está castigando a una empresa por su actitud anticatalanista, ninguno de los dos boicots está justificado. As! que a pasar unas Felices Navidades comiendo turrón de Alicante y Jijona, comiendo polvorones de la Estepa, y brindando con cava catalán!

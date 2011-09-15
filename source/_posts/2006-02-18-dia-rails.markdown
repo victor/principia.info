@@ -1,0 +1,10 @@
+---
+layout: post
+title: Dia Rails
+---
+
+Pues ya ni me acordaba, pero hoy era, o está siendo, el dia rails. Yo no he participado por que estaba de boda, pero parece ser que el resto de la comunidad ha estado también menos activo de lo que se esperaba. O no?
+
+ La verdad es que en [Planeta Rails](http://www.planetarails.es) se registra poco movimiento, y el canal [#railes](irc://irc.freenode.net/railes) también está algo parado.
+
+ Yo de todas maneras, ahora que he llegado a casa, me voy a poner con rails, en mi último proyecto super secreto (podría contároslo, pero luego habría de mataros, y Google Analytics no da tanta información como para encontrar vuestros domicilios). Asi que ya os enteraréis a su tiempo muahahaha!!

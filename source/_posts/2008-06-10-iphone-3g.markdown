@@ -1,0 +1,14 @@
+---
+layout: post
+title: iPhone 3G
+---
+
+Hace dias que tengo varios posts pendientes de escribir. Me compré un MacBook Pro de los nuevos (el modelo de más alta gama), un coche nuevo para llevar a las niñas (un Mazda 5 de penúltima generación, que son más baratos :) ), mi mujer metiéndose a blogger sin que yo la haya empujado... en fin, unas cuantas novedades. Pero lo que me ha llevado a romper mi racha de silencio y postear ha sido ver esta mañana la Keynote de ayer de Steve Jobs en la WWDC2008.
+
+Después de ver algunos de los ejemplos de aplicaciones de terceras partes (y de haber trasteado con las betas del SDK), y ver el peazo móvil que estará disponible por estos lares... se me ocurre que debo replantear mi carrera, y especializarme en desarrollo sobre la plataforma iPhone (si, es una nueva plataforma). Con mi background en desarrollo web y web services, y los pinitos que hecho en Cocoa y Objective-C con el iMac, tengo una ligerísima ventaja sobre una parte de la horda de programadores que vaticino van a interesarse en desarrollar sobre esta plataforma.
+
+![iPhone simulator](/assets/2008/6/10/iphone_simulator_2.png)
+
+Lo que necesito es pensar un par de aplicaciones sencillas que sirvan de *showcase* de mis habilidades, y ponerlas cuanto antes en el App Store. No para ganarme la vida con ellas - según como, igual las pondría gratis para evitar tener que declarar ganancias- si no para que cualquier posible empleador las pruebe. Y claro, también para ganar una mínima experiencia, ya que no es lo mismo Cocoa que Cocoa Touch, claro!
+
+Asi pues, qué aplicaciones podria hacer que sean sencillitas a la par que vistosas? Lo primero que me viene a la cabeza es alguna herramienta para editar blogs, o un puzzle con fotos de flickr. Pero no se, no se... estoy seguro de que si me esfuerzo un poquito más, podré tener algo más interesante!
